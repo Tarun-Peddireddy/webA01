@@ -1,0 +1,32 @@
+
+body {
+    color: blue;
+    background-color: linen;
+    }
+
+p{
+	color: brown;
+}
+
+h1 {
+    color: red;
+    
+}
+h2 {
+	color: orange;
+}
+li{
+	color: pink;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+tr:nth-child(even){background-color: #f2f2f2}
+
+}
+
